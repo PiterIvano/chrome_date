@@ -11,4 +11,16 @@
 </ul>
 Aunque las contraseñas estan encriptadas... en las proximas actualizaciones se hara esa parte.
 </p>
-
+<h3>[+] Librerias necesarias!</h3>
+<ul>
+  <li>{+] pip install requests</li>
+  <li>{+] pip install tkinter</li>
+</ul>
+<h3>[+] Pasos</h3>
+<p>
+<ul>
+  <li>[+] Tener un dominio no importa si es gratis o de paga</li>
+  <li>[+] Subir archivo upload.php...</li>
+  <li>[+] Luego usas ese link en el .py Ejemplo: https://xxxxxxxxxxxxxx.000webhostapp.com/upluad.php</li>
+  <li>{+] Compilas este archivo con pyintaller y disfruta</li>
+</ul>
