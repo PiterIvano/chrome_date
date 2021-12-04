@@ -1,5 +1,4 @@
 # chrome_date
-
 <h3>[+] Descripcion</h3>
 <p>Este codigo esta hecho en python el lado del cliente, en php el lado del servidor... el ejecutable revisa si existe chrome en tu navedador y luego sube estos datos: 
 <ul>
